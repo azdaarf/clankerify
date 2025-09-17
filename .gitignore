@@ -1,10 +1,4 @@
 # domain-specific files
-upload/profiles/active/
-upload/profiles/inactive/
-upload/joblistings/
-!upload/profiles/active/.gitkeep
-!upload/profiles/inactive/.gitkeep
-!upload/joblistings/.gitkeep
 credentials.json
 token.json
 

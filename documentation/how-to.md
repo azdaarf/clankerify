@@ -49,7 +49,7 @@ Choose the alternative underlined in red.
 Then run the following command:
 
 ```shell
-python3 .\src\consultiq.py
+python3 .\src\clankerify.py
 ```
 
 ### In Windows 11
@@ -63,5 +63,5 @@ Choose the alternative underlined in red.
 Then run the following command:
 
 ```shell
-python3 .\src\consultiq.py
+python3 .\src\clankerify.py
 ```
